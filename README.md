@@ -52,19 +52,7 @@ cd weather-dashboard
 
 Open `index.html` in a browser, or use a static server such as the VS Code Live Server extension.
 
-## Deploy on Vercel
-
-1. Push the project to a GitHub repository.
-2. Log in to [vercel.com](https://vercel.com) and click **Add New > Project**.
-3. Import the repository.
-4. Set the framework preset to **Other** and leave build settings empty.
-5. Click **Deploy**.
-
 ## API Used
 
 - Geocoding: `https://geocoding-api.open-meteo.com/v1/search`
 - Forecast: `https://api.open-meteo.com/v1/forecast`
-
-## Author
-
-Your Name, B.Tech 2nd Year
